@@ -4,7 +4,7 @@
 ![](https://github.com/Berezhok/home_work_zabbix/blob/main/img/new%20template.png)
 ### Задание 2
 #### Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>.
-![](https://github.com/Berezhok/home_work_zabbix/blob/main/img/host1.png)
+![](https://github.com/Berezhok/home_work_zabbix/blob/main/img/hosts1.png)
 ### Задание 3
 #### Получение данных с шаблона
 ![](https://github.com/Berezhok/home_work_zabbix/blob/main/img/transmitData.png)
